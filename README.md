@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TorAhlqvist
+- 👀 I’m interested in Machine learning 
+- 🌱 I’m currently Learning CS50 
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me Tor.ahlqvist@gmail.com
